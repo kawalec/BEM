@@ -6,14 +6,15 @@
 .menu--vertical {
 }
 
-.menu__logo {
+/* Block */
+.logo {
 }
 
 /* Element */
-.menu__logo-image {
+.logo__image {
 }
 
-.menu__logo-name {
+.logo__name {
 }
 
 .menu__item-list {
